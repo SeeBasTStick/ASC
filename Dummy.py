@@ -1,0 +1,2 @@
+def functionDummy:
+    pass
