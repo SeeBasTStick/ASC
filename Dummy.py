@@ -1,4 +1,4 @@
 
 ## Im adding a comment for a test
-def functionDummy:
+def functionDummy(h):
     pass
